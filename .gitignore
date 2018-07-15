@@ -1,6 +1,7 @@
 **/.idea
 **.iml
 **/target
+JsonHelperOld.*
 
 # Mac
 .DS_Store
